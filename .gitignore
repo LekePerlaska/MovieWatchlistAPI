@@ -1,0 +1,14 @@
+# Ignore bin and obj folders
+bin/
+obj/
+
+# Ignore all CSV files
+*.csv
+
+# Optional: standard .NET ignores
+*.user
+*.suo
+*.cache
+*.log
+*.vs/
+
